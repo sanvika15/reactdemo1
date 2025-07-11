@@ -1,7 +1,4 @@
----
 
-
-```markdown
 # 🔢 React Calculator App
 
 A simple calculator built using **React** and **Hooks (useState)**. This project demonstrates how to build a functional component with dynamic state updates in a clean and minimal UI.
