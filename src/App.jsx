@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Counter from './components/Counter'
+import Calculator from './components/Calculator'
 
 
 
@@ -9,7 +9,7 @@ function App() {
   return (
 
       <div>
-        <Counter/>
+        <Calculator/>
       </div>
 
   )
